@@ -1,0 +1,20 @@
+{
+    "name": "wxl/demo",
+    "type": "1",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Holiday\\": "src/holiday"
+        }
+    },
+    "authors": [
+        {
+            "name": "wxl",
+            "email": "871500751@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
